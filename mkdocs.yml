@@ -1,6 +1,6 @@
 site_name: Using custom colors
 site_url: https://example.com
-repo_url: https://github.com/nshun/aws-portal-mddocs
+repo_url: https://github.com/nshun/aws-portal-mkdocs
 
 # Theme
 theme:
