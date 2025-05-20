@@ -8,10 +8,10 @@
 
 ## AWS 公式資料
 
-- [AWS サービス別資料 (BlackBelt)](https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/)
+- [AWS ドキュメント](http://aws.amazon.com/jp/documentation/)
 - [AWS ホワイトペーパー](http://aws.amazon.com/jp/whitepapers/)
 - [AWS アーキテクチャセンター](https://aws.amazon.com/jp/architecture/)
-- [AWS ドキュメント](http://aws.amazon.com/jp/documentation/)
+- [AWS サービス別資料 (BlackBelt)](https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/)
 
 ## イベント
 
@@ -24,4 +24,5 @@
 - [AWS Summit Online 2020](https://aws.amazon.com/jp/summits/2020/)
 - [AWS Summit Online 2021](https://aws.amazon.com/jp/events/summits/online/japan/)
 - [AWS Summit Online 2022](https://aws.amazon.com/jp/summits/japan-2022/)
-- [AWS Summit Online 2023](https://aws.amazon.com/jp/summits/japan-2023/)
+- [AWS Summit Tokyo 2023](https://aws.amazon.com/jp/summits/tokyo-2023/)
+- [AWS Summit Japan 2024](https://aws.amazon.com/jp/summits/japan-2024/)

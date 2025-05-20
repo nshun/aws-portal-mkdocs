@@ -19,11 +19,6 @@
 
 ## モジュール
 
-### モジュール 0
-
-- [AWS クラウドに関する知識を習得するための AWS Cloud Practitioner Essentials デジタルコースが新しくなりました | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/cloud-practitioner-essentials-digital-course/)
-- [初学者向けのデジタルコース AWS Technical Essentials 日本語実写版 で AWS を学習しましょう | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/aws-technical-essentials/)
-
 ### モジュール 1
 
 - [クラウド (クラウドサービス) とは？](https://aws.amazon.com/jp/cloud/)
