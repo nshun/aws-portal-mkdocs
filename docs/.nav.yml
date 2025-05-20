@@ -1,0 +1,10 @@
+sort:
+  sections: mixed
+
+
+nav:
+  - index.md
+  - prepare.md
+  - courses
+  - nextstep.md
+  - appendix.md

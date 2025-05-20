@@ -1,15 +1,24 @@
-site_name: トレーニングポータルサイト
+site_name: ポータルサイト
+site_description: AWS のトレーニングで使用するリンク集です
+site_author: Shun Nishimura
+
 site_url: https://nshun.github.io/aws-portal-mkdocs/
 repo_url: https://github.com/nshun/aws-portal-mkdocs
+
+copyright: Copyright &copy; 2025 Shun Nishimura
 
 # Theme
 theme:
   name: material
   language: ja
   features:
-    - navigation.sections
+    - navigation.expand
+    # - navigation.sections
+    - navigation.indexes
+    - navigation.top
     - search.suggest
     - search.highlight
+    - toc.follow
 
 # Additional CSS
 extra_css:
@@ -17,17 +26,21 @@ extra_css:
 
 # Markdown extensions
 markdown_extensions:
+  - admonition
   - attr_list
   - toc:
       permalink: true
+      toc_depth: 3
   - pymdownx.highlight
   - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.snippets:
+      base_path: docs/snippets
 
 plugins:
   - privacy
   - search
-
-copyright: Copyright &copy; 2025 Shun Nishimura
+  - awesome-nav
 
 extra:
   generator: false
