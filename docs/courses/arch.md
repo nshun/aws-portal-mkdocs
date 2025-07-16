@@ -10,10 +10,10 @@
 ## グループディスカッション
 
 -  コース中にグループディスカッションを行います
-   -  マイクとカメラの使える環境の準備をお願いします
+    -  マイクとカメラの使える環境の準備をお願いします
 -  以下の Google Slide にアクセスできるかご確認ください
-   -  [サンプル Google Slide](https://docs.google.com/presentation/d/1teOZTSorFLgsIENdOp_rhYPYI6_PAMkfvLZeWr7883Y/edit?usp=sharing)
-   -  グループ分けの参考にさせていただくためで、アクセスできなくても問題ありません
+    -  [サンプル Google Slide](https://docs.google.com/presentation/d/1teOZTSorFLgsIENdOp_rhYPYI6_PAMkfvLZeWr7883Y/edit?usp=sharing)
+    -  グループ分けの参考にさせていただくためで、アクセスできなくても問題ありません
 
 ## モジュール
 
@@ -204,17 +204,17 @@
 #### 時間の余った方向け追加課題
 
 -  AWS の操作方法の特徴をおさえ、使い分けを考えてみてください
-   -  AWS のインフラを構築するには、他にも SDK といった選択肢があります
-   -  ヒント: 管理コスト, 一貫性, 再現性
+    -  AWS のインフラを構築するには、他にも SDK といった選択肢があります
+    -  ヒント: 管理コスト, 一貫性, 再現性
 
 ### ラボ 2
 
 #### 目標
 
 -  AWS のネットワークインフラを確認する
-   -  VPC, サブネット, ルートテーブル, IGW, NAT
+    -  VPC, サブネット, ルートテーブル, IGW, NAT
 -  EC2 インスタンスを起動し、セキュアに接続する
-   -  参考: [セッションマネージャー | BlackBelt](https://pages.awscloud.com/rs/112-TZM-766/images/20200212_AWSBlackBelt_SystemsManager_0214.pdf#page=60)
+    -  参考: [セッションマネージャー | BlackBelt](https://pages.awscloud.com/rs/112-TZM-766/images/20200212_AWSBlackBelt_SystemsManager_0214.pdf#page=60)
 
 #### 注意点
 
@@ -225,7 +225,7 @@
 
 -  オプションタスクに取り組んでください
 -  VPC の作成ウィザードで「VPC のみ」ではなく「VPC など」のオプションを使って作成してみましょう
-   -  [タスク 4 までをスキップする⼿順](https://d38j18cshs86vq.cloudfront.net/lab2.pdf)
+    -  [タスク 4 までをスキップする⼿順](https://d38j18cshs86vq.cloudfront.net/lab2.pdf)
 -  構築したリソースを紙とペンで描いてみましょう
 
 ### ラボ 3
@@ -262,7 +262,7 @@
 
 -  オプションタスクに取り組んでください
 -  EC2 アプリケーションとサーバーレスアプリケーションを比較してみましょう
-   -  管理コスト, 自由度, 開発工数, クォータ など...
+    -  管理コスト, 自由度, 開発工数, クォータ など...
 
 ### ラボ 6
 
@@ -275,5 +275,5 @@
 
 -  オプションタスクに取り組んでください
 -  DestinationBucket をプライベートに戻し、CloudFront でリージョン間フェイルオーバーする方法を考えましょう
-   -  適当な画像を DestinationBucket にのみアップロードして動作を確認しましょう
+    -  適当な画像を DestinationBucket にのみアップロードして動作を確認しましょう
 -  ユーザーが ELB に直接アクセスできない設定を考えてみましょう
